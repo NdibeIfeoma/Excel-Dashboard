@@ -14,7 +14,7 @@ Using excel to create dashboard to optimize operation and guest experience and i
   - Impact of online Hotel booking Channels ease of cancellation at low or free cost.
   - Investigat the impact of Cancellation.
  
-  ## PROJECT OBKJECTIVE
+  ## PROJECT OBJECTIVE
 
   ## DATA SOURCE
 

@@ -7,7 +7,7 @@ Using Excel to create a dashboard to optimize operation and guest experience and
 - Data Source
 - Key Insights
 - Recommendations.
-- 
+  
 "C:\Users\hp\Desktop\10ALYTICS\task 1\future tale.png"
 
   ## PROJECT OVERVIEW:

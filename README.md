@@ -26,8 +26,8 @@ Using Excel to create a dashboard to optimize operation and guest experience and
   ## KEY INSIGHTS
   - There is a high rate of bookings and cancellations.
   - For any cancelled booking leads to a loss in revenues.
-  - There is a decline in bookings towards the end of each year which positively correlates with the seasonal          decline in cancellations.
-  - The Room prices are mostly skewed to the right with 90% of bookings price ranging between $80 - $200 price         range.
+  - There is a decline in bookings towards the end of each year which positively correlates with the seasonal decline in cancellations.
+  - The Room prices are mostly skewed to the right with 90% of bookings price ranging between $80 - $200 price range.
 
 
   ## RECOMMENDATIONS

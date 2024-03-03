@@ -10,7 +10,7 @@ Using Excel to create a dashboard to optimize operation and guest experience and
 
 
   ## PROJECT OVERVIEW:
-  - Insights and Analysis of the Hotel Reservations, Cancellation/ No shows.
+  - Insights and Analysis of the Hotel Reservations, Cancellation/ No Shows.
   - Impact of online Hotel booking Channels ease of cancellation at low or free cost.
   - Investigate the impact of Cancellation.
     
